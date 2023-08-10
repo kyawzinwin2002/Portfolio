@@ -1,0 +1,12 @@
+.NavList{
+    display: flex;
+    position: absolute;
+    width: 100px;   
+    height: 100px;  
+    
+    rotate: 45deg; 
+}
+
+.img,.caption {
+    transition: all 0.6s;
+}
